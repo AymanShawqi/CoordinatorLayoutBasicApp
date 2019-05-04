@@ -1,4 +1,4 @@
-package com.android.myapp;
+package com.android.coordinatorlayoutbasicapp;
 
 import android.content.Context;
 import android.support.annotation.NonNull;

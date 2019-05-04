@@ -36,6 +36,7 @@
         android:layout_height="wrap_content"
         app:layout_anchorGravity="bottom|end"
         app:layout_anchor="@+id/recycler"
+        app:layout_behavior="com.android.coordinatorlayoutbasicapp.ScrollAwareFABBehavior"
         android:src="@drawable/ic_action_name"
         android:layout_margin="4dp"
         />

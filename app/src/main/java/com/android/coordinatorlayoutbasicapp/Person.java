@@ -1,4 +1,4 @@
-package com.android.myapp;
+package com.android.coordinatorlayoutbasicapp;
 
 import java.util.ArrayList;
 import java.util.List;

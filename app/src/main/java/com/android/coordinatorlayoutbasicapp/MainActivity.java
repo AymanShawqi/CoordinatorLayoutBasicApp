@@ -1,4 +1,4 @@
-package com.android.myapp;
+package com.android.coordinatorlayoutbasicapp;
 
 import android.support.design.widget.CoordinatorLayout;
 import android.support.design.widget.Snackbar;
